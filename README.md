@@ -4,4 +4,4 @@ Made by Harrison Cui, Brett Jamieson, and Andy Zhu in fall 2018 as part of the m
 
 ## Directions
 
-After downloading the source, navigate to the source `src` folder and run `make play`.
+After downloading the source, navigate to the `src` folder and run `make play`.
